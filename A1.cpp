@@ -6,6 +6,7 @@
       unordered_map<int, string> runTestCases();
 
     2. Add the runTestCases() function below to the end of your code
+    3. Put this in your main function: runTestCases();
 
   Adding test cases:
     - Make sure to follow the general structure of the previous test cases
